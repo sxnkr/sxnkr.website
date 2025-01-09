@@ -65,8 +65,8 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Govind Sankar.</span> I'm a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
         <span className="font-bold">a years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        building <span className="italic">sites & mobile apps</span>. My mainly work with{" "}
+        <span className="underline">React (Next.js) and expo for apps</span>.
       </motion.h1>
 
       <motion.div
